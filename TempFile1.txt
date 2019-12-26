@@ -1,6 +1,6 @@
 THis is Temp File from master .
 
-THis is from Dev.
+THis is from master.
 
 
 This is for merge.
