@@ -6,3 +6,6 @@ THis is from Dev.
 This is for merge.
 
 This is new merge from dev.  
+
+
+Tryin to use git extension from VS 2017
